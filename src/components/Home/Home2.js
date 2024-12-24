@@ -54,12 +54,12 @@ function Home2() {
               </i>
             </p>
           </Col>
-          <Col md={4} className="myAvtar">
+         {/*  <Col md={4} className="myAvtar">
             <Tilt>
               <img src={me} className="img-fluid" alt="avatar" style={{borderRadius:"300px", width: "100%",
                    height: "400px",}}/>
             </Tilt>
-          </Col>
+          </Col> */}
         </Row>
         <Row>
           <Col md={12} className="home-about-social">
